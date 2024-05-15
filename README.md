@@ -4,10 +4,10 @@ Soy LucasN, Frontend Developer, con experiencia en desarrollo web utilizando HTM
 
 Actualmente me encuentro en busca de nuevos desafíos y oportunidades para seguir creciendo como profesional. Mi próximo objetivo es incursionar en el mundo de React y Node.js.
 
-[Linkedin](https://www.linkedin.com/in/lucas-n-nunez/){:target="_blank"}
+Linkedin: <a href="https://www.linkedin.com/in/lucas-n-nunez/" target="_blank">https://www.linkedin.com/in/lucas-n-nunez/</a>
 
-[Curriculum](https://drive.google.com/file/d/1PU1hW3totY9DtyrkjBVj1LcIOGNYtCUh/view){:target="_blank"}
+Curriculum: <a href="https://drive.google.com/file/d/1PU1hW3totY9DtyrkjBVj1LcIOGNYtCUh/view" target="_blank">https://drive.google.com/file/d/1PU1hW3totY9DtyrkjBVj1LcIOGNYtCUh/view</a>
 
-[Netlify](https://app.netlify.com/teams/lucaasn/overview){:target="_blank"}
+Netlify: <a href="https://app.netlify.com/teams/lucaasn/overview" target="_blank">https://app.netlify.com/teams/lucaasn/overview</a>
 
 
