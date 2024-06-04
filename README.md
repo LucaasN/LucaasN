@@ -1,8 +1,8 @@
 ¡Hola! 👋
 
-Soy LucasN, Frontend Developer, con experiencia en desarrollo web utilizando HTML, CSS y JavaScript. He trabajado con Bootstrap y jQuery para crear sitios web atractivos e interactivos.
+Soy Lucas Nahuel Nuñez, Frontend Developer/Desarrollador web, con experiencia utilizando tecnologias populares como HTML, CSS, JavaScript, Jquery, Bootstrap, React y Typescript.
 
-Actualmente me encuentro en busca de nuevos desafíos y oportunidades para seguir creciendo como profesional. Mi próximo objetivo es incursionar en el mundo de React y Node.js.
+Actualmente me estoy perfeccionando en React y Node.js, con el objetivo de dominar el stack MERN y convertirme en un desarrollador Full Stack. 
 
 Linkedin: <a href="https://www.linkedin.com/in/lucas-n-nunez/" target="_blank">https://www.linkedin.com/in/lucas-n-nunez/</a>
 
