@@ -1,6 +1,6 @@
 ¡Hola! 👋
 
-Soy Lucas Nahuel Nuñez, Frontend Developer/Maquetador, con experiencia utilizando tecnologias web como HTML, CSS, JavaScript, Jquery, Bootstrap, React, Typescript, etc.
+Soy Lucas Nahuel Nuñez, Frontend Developer/Maquetador web. Cuento con experiencia utilizando tecnologias web como HTML, CSS, JavaScript, Jquery, Bootstrap, React, Typescript, Angular, etc.
 
 Actualmente me estoy perfeccionando en React y Node.js, con el objetivo de dominar el stack MERN y convertirme en un desarrollador Full Stack. 
 
