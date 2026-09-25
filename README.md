@@ -6,6 +6,6 @@ Linkedin: <a href="https://www.linkedin.com/in/lucas-n-nunez/" target="_blank">h
 
 Netlify: <a href="https://app.netlify.com/teams/lucaasn/overview" target="_blank">https://app.netlify.com/teams/lucaasn/overview</a>
 
-CV: <a href="[https://drive.google.com/file/d/13teWyrhfr-w_Wgxs9QL4aRIY7r8ef6L2/view](https://drive.google.com/file/d/1HCe_qEFion4m6T60c3DOxBAGKDAJJbv2/view?usp=sharing)" target="_blank">CV</a>
+CV: <a href="https://drive.google.com/file/d/1HCe_qEFion4m6T60c3DOxBAGKDAJJbv2/view?usp=sharing" target="_blank">CV</a>
 
 
